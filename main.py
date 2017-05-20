@@ -17,10 +17,10 @@ import configparser
 bot_username = 'ChatWarsBot'
 
 # ваш username или username человека, который может отправлять запросы этому скрипту
-admin_username = ''
+admin_username = 'apbfor'
 
 # username бота и/или человека, которые будут отправлять приказы
-order_usernames = ''
+order_usernames = 'apbfor'
 
 # имя замка
 castle_name = 'blue'
@@ -94,7 +94,7 @@ orders = {
     'cover_symbol': '🛡',
     'hero': '🏅Герой',
     'corovan': '/go',
-    'peshera': '🕸Пещера',
+    'peshera': '🐫ГРАБИТЬ КОРОВАНЫ',
     'quests': '🗺 Квесты',
     'castle_menu': '🏰Замок',
     'lavka': '🏚Лавка',
